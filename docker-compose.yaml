@@ -1,4 +1,3 @@
-
 services:
 
   # -------------------------------
@@ -55,7 +54,6 @@ services:
     restart: always
 
 # -------------------------------
-# Volume persistant declaration de volumes
 # -------------------------------
 volumes:
   employedata:
